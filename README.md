@@ -1,6 +1,6 @@
 Hi there! I'm Hafsa Arshad 👋
 
-🚀 About Me
+###🚀 About Me
 I'm a passionate Full-Stack Developer with a strong foundation in frontend development and a growing expertise in backend technologies.
 I love problem-solving, optimizing code, and building innovative web applications. Currently, I'm exploring APIs, Context API, and MERN stack development.
 🛠 Skills & Technologies
@@ -19,7 +19,7 @@ Mastering the MERN stack
 Learning React Native for Android development
 Staying updated with the latest IT trends
 📫 Connect With Me
-GitHub: @hafsarshad
+GitHub: @hafsarshad  
 Email: hafsarshad123@gmail.com
 
 
