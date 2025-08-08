@@ -23,10 +23,8 @@ I'm a passionate **Full-Stack Developer** with a strong foundation in **frontend
 ### 🔹 Tool Matrix
 - **Live:** [Visit here](https://tool-matrix.vercel.app/)
 - A collection of various math and physics calculators.
-### 🔹 Quote Generator *(In Progress)*
-- Fetches and displays quotes using an API.
   
-### 🔹 Internship at HMZone *(July 2024 – Oct 2024)*
+### 🔹 Internship at HMZone *(December 2024 – may 2025)*
 - Gained hands-on experience in frontend development.
 
 ### 🔹 Full-Stack Course *(Navtac)*
